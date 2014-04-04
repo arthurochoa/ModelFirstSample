@@ -1,0 +1,8 @@
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\ModelFirstSample\ModelFirstSample\bin\Debug\ModelFirstSample.exe.config
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\ModelFirstSample\ModelFirstSample\bin\Debug\ModelFirstSample.exe
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\ModelFirstSample\ModelFirstSample\bin\Debug\ModelFirstSample.pdb
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\ModelFirstSample\ModelFirstSample\bin\Debug\EntityFramework.dll
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\ModelFirstSample\ModelFirstSample\bin\Debug\EntityFramework.xml
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\ModelFirstSample\ModelFirstSample\obj\x86\Debug\ModelFirstSample.csprojResolveAssemblyReference.cache
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\ModelFirstSample\ModelFirstSample\obj\x86\Debug\ModelFirstSample.exe
+C:\Users\ochoaas\Documents\Visual Studio 2010\Projects\ModelFirstSample\ModelFirstSample\obj\x86\Debug\ModelFirstSample.pdb
